@@ -6,8 +6,6 @@ Between each change you should refresh your browser to observe changes.  If that
 
 Per usual, Google is also your best friend (it's probably alot smarter than us).
 
-This is due at the beginning of the next class.
-
 ## To start:
 To start everything off, fork this repository - there should be a fork button on the top right corner of the repo.
 Fork the repository to your own!
